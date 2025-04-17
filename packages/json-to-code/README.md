@@ -10,4 +10,4 @@ In any JSON file, use the command &quot;*Open Quicktype for JSON*&quot; or &quot
 
 Type generation within this plugin is powered by [quicktype-core](https://github.com/glideapps/quicktype), enabling rapid and reliable creation of type interfaces and definitions.
 
-Github repo: [https://github.com/ychwah/acode-plugins/packages/json-to-code](https://github.com/ychwah/@acode-plugins/packages/json-to-code)
+Github repo: [https://github.com/ychwah/acode-plugins/tree/main/packages/json-to-code](https://github.com/ychwah/acode-plugins/tree/main/packages/json-to-code)
