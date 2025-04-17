@@ -1,0 +1,19 @@
+{
+  "id": "ych.json2code",
+  "name": "JSON to Code",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode" : 290,
+  "license": "MIT",
+  "changelogs": "changelogs.md",
+  "keywords": [],
+  "price": 0,
+  "author": {
+    "name": "NIL",
+    "email": "",
+    "github": "ychwah"
+  }
+}
