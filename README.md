@@ -21,9 +21,9 @@ This repository is a community-driven effort. We are not responsible for the fun
 
 Browse the plugin listings to find tools that enhance your Acode experience!
 
-- **[https://github.com/bajrangCoder/acode-plugin-acodex](AcodeX - Terminal)**: Provides a terminal interface within the Acode editor.
+- **[AcodeX - Terminal](https://github.com/bajrangCoder/acode-plugin-acodex)**: Provides a terminal interface within the Acode editor.
 - **Github**: Likely integrates Github functionality into the Acode editor.
 - **Terminal Pro**: An enhanced or professional version of a terminal plugin for Acode.
-- **[https://github.com/bajrangCoder/acode-plugin-chatgpt](AI Assistant Beta)**: An experimental AI-powered assistant for coding tasks within Acode.
+- **[AI Assistant Beta](https://github.com/bajrangCoder/acode-plugin-chatgpt)**: An experimental AI-powered assistant for coding tasks within Acode.
 - **Responsive Tester & Fast previewer⚡**: A tool to test website responsiveness and quickly preview designs.
 - **Vscode Icon (All in one)**: Adds Visual Studio Code-style icons to the Acode editor.
