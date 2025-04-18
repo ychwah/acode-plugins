@@ -1,6 +1,6 @@
 {
   "name": "ych.csv2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert CSV to JSON",
   "main": "dist/main.js",
   "repository": "https://github.com/Acode-Foundation/AcodeTSTemplate.git",
