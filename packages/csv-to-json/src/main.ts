@@ -31,14 +31,13 @@ class AcodePlugin {
                     this.csvToJson();
                 }catch(e) {
                     alert('Conversation to JSON failed', 'The CSV file could not be converted to JSON.');
-                    console.log(e)
                 }
             }
         })
     }
 
     async destroy() {
-        // Add your cleanup code here
+        editorManager.editor.commands.removeCommand('CSV to JSON');
     }
 }
 
